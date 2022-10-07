@@ -1,7 +1,7 @@
 Hello Everybody...
 
 - 👋 Hi, I’m @Zikri578
-- 👀 I’m interested in Web Development ...
+- 👀 I’m interested in Web Development, UI/UX, and System Analyst
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Team
 - 📫 How to reach me? Send By Gmail : zikrim577@gmail.com
