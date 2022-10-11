@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Zikri578&show_icons=true&theme=radical"/> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri578&langs_count=8"/>
+
+![Snake animation](https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg)
