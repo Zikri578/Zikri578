@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- **Databse**:
+- **Database**:
 
    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="between">
 
 <a href="https://github.com/Zikri578">
   <img src="https://github-readme-stats.vercel.app/api?username=Zikri578&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
