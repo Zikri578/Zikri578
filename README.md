@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/Javascript%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
   
@@ -39,14 +39,14 @@ You can click the Preview link to take a look at your changes.
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![ReactJs](https://img.shields.io/badge/ReactJs%20-%23F12321.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
   
 - **Back-End Development**:
 
-   ![NodeJS](https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![ExpressJs](https://img.shields.io/badge/ExpressJS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 <br>
 
