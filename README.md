@@ -8,10 +8,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<!---
-Zikri578/Zikri578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 - 👋 Hi, I’m <b>Muhammad Zikri</b>
 - 👀 I’m interested in <b>Web Development, UI/UX, and System Analyst</b>
 - 🌱 I’m currently learning <b>React JS, Express, Next JS, and Javascript Language</b>
@@ -80,6 +76,7 @@ You can click the Preview link to take a look at your changes.
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+  
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -99,6 +96,16 @@ You can click the Preview link to take a look at your changes.
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
 
-![Snake animation](https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg)
+</a>
 
-Last Edited on: 01/16/2023
+<p align="center"> 
+  <a href=#><img src="https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg"></a>
+<!--   ![Snake animation](https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg) -->
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Zikri578/count.svg" />
+</p>
+
+Last Edited on: 01/18/2023
