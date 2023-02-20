@@ -88,20 +88,22 @@
   
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zikri578&show_icons=true&locale=en&layout=compact&line_height=20&title_color=80f471&icon_color=2234AE&text_color=D3D3D3&bg_color=141321" width="35%"  alt="Zikri578"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zikri578&show_icons=true&locale=en&layout=compact&line_height=20&title_color=70a4fc&icon_color=2234AE&text_color=D3D3D3&bg_color=0d1117" width="35%"  alt="Zikri578"/>
   </div>
   
   <br>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zikri578&custom_title=Zikri578's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=aaf8a0&point=F8D847&area_color=41ef2a&title_color=80f471&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zikri578&custom_title=Zikri578's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=A9FEF7&line=2234ad&point=ffffff&area_color=b4cffd&title_color=70a4fc&area=true" alt="Zikri578's Github Activity Graph" width="100%">
   
-  <img src="https://streak-stats.demolab.com?user=Zikri578&theme=radical" width="49%" alt="streaks graph" />
+
 </div>
   
   <br>
 
 <a href="https://github.com/Zikri578">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zikri578&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=80f471&icon_color=2234AE&text_color=D3D3D3&bg_color=141321" width="40%" alt="Zikri578"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zikri578&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=70a4fc&icon_color=2234AE&text_color=D3D3D3&bg_color=0d1117" width="50%" alt="Zikri578"/>
+
+  <img src="https://streak-stats.demolab.com?user=Zikri578&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" width="45%" alt="Zikri578" />
 </a>
   
   <br>
@@ -122,4 +124,4 @@
   </p>
 </div>  
 
-Last Edited on: 20/02/2023 (21:42, East Asia)
+Last Edited on: 20/02/2023 (22:08, East Asia)
