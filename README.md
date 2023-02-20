@@ -85,16 +85,28 @@
 <br>
 
 <div align="center">
+  
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zikri578&show_icons=true&locale=en&layout=compact&line_height=20&title_color=80f471&icon_color=2234AE&text_color=D3D3D3&bg_color=141321" width="35%"  alt="Zikri578"/>
+  </div>
+  
+  <br>
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zikri578&custom_title=Zikri578's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=aaf8a0&point=F8D847&area_color=41ef2a&title_color=80f471&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  
+  <img src="https://streak-stats.demolab.com?user=Zikri578&theme=radical" width="49%" alt="streaks graph" />
+</div>
+  
+  <br>
 
 <a href="https://github.com/Zikri578">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zikri578&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="Zikri578"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zikri578&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Zikri578"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zikri578&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=80f471&icon_color=2234AE&text_color=D3D3D3&bg_color=141321" width="40%" alt="Zikri578"/>
 </a>
+  
+  <br>
 
 </div>  
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
 
 </a>
 
@@ -103,9 +115,11 @@
 <!--   ![Snake animation](https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Zikri578/count.svg" />
-</p>
+<div align="center">
+  <p> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/Zikri578/count.svg" />
+  </p>
+</div>  
 
-Last Edited on: 03/02/2023 (21:21, East Asia)
+Last Edited on: 20/02/2023 (21:42, East Asia)
