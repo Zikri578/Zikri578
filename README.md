@@ -110,7 +110,7 @@
 
 </div>  
 
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center"> 
   <a href=#><img src="https://github.com/Zikri578/Zikri578/blob/output/github-contribution-grid-snake.svg"></a>
@@ -124,4 +124,4 @@
   </p>
 </div>  
 
-Last Edited on: 20/02/2023 (22:08, East Asia)
+Last Edited On: 20/02/2023 (22:08, East Asia)
