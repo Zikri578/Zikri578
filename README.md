@@ -9,8 +9,8 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 - 👋 Hi, I’m <b>Muhammad Zikri</b>
-- 👀 I’m interested in <b>Web Development, UI/UX, System Analyst, Quality Assurance</b>
-- 🌱 I’m currently learning <b>React JS, Express, Next JS, and Javascript Language</b>
+- 👀 I’m interested in <b>UI/UX, Quality Assurance, Data Analytic, Machine Learning,</b>
+- 🌱 I’m currently learning <b>Python Languange</b>
 - 💞️ I’m looking to collaborate on <b>Team</b>
 <!-- 📫 How to reach me? Send By Gmail : zikrim577@gmail.com -->
 
